@@ -100,12 +100,12 @@ B) Lord Wavell
 C) Sir Pethick Lawrence
 D) Alexander
 ANS: B
-Q: Which of the following words is NOT mentioned in the Indian Constitution?
+Q: Which of the following words was NOT mentioned initially in the Indian Constitution?
 A) Secular
 B) Republican
 C) Democratic
 D) Socialist
-ANS: D
+ANS: A
 Q: All the ____ countries likely to have a Constitution.
 A) Communist
 B) Socialist
@@ -352,17 +352,7 @@ B) Tenth Schedule
 C) Eleventh Schedule
 D) Sixth Schedule
 ANS: B
-Q: Match List-I (Provision of the Constitution of India) with List-II (Borrowed from) and select the correct answer using the code given below the Lists:
-1. First-past-the-post system
-2. Charter of Fundamental Rights
-3. Residual Powers
-4. Directive Principles of State Policy
-Code:
-A) a-4, b-3, c-1, d-2
-B) a-4, b-3, c-2, d-1
-C) a-2, b-1, c-3, d-4
-D) a-2, b-1, c-3, d-4
-ANS: A
+
 Q: Which one of the following languages is not included in the Eighth Schedule of the Constitution of India?
 A) Bodo
 B) Maithili
@@ -479,7 +469,7 @@ A) Sovereign, secular, socialist, democratic, republic
 B) Sovereign, socialist, secular, democratic, republic
 C) Socialist, secular, democratic, republic, sovereign
 D) Sovereign, democratic, republic, socialist, secular
-ANS: A
+ANS: B
 Q: Any citizen of India can make a declaration renouncing his/her Indian citizenship under the ______ of the Citizenship Act, 1955.
 A) Citizenship Act, 1985
 B) Citizenship Act, 1965
@@ -487,11 +477,11 @@ C) Citizenship Act, 1975
 D) Citizenship Act, 1955
 ANS: D
 Q: Which words have been substituted for the words 'Unity of the Nation' in the 42nd Amendment Act of the Preamble of the Constitution of India?
-A) Unity and integrity of the nation
+A) Unity and Disintegrity of the nation
 B) Unity and equality of the nation
 C) Unity and integrity of the nation
 D) Unity and morality of the nation
-ANS: D
+ANS: C
 Q: Which part of the Constitution of India deals with 'Citizenship'?
 A) Part I
 B) Part II
@@ -658,14 +648,14 @@ B) 26th November, 1949
 C) 15th August, 1947
 D) 14th December, 1949
 ANS: A
-Q: As per the Preamble, the principles of Justice, Liberty, Equality and Fraternity were derived from the purview of the Citizenship (Amendment) Act, 2019?
+Q: The principles of Justice, Liberty, Equality and Fraternity were derived from the purview of the Citizenship (Amendment) Act, 2019?
 A) Ladakh
 B) Jammu and Kashmir
 C) The Sixth Schedule Areas
 D) The Fifth Schedule areas
 ANS: D
 Q: With respect to North-East India, consider the following special provisions:
-1. According to Article 371-A of the Constitution, special provisions are made with respect to the state of Mizoram.
+1. According to Article 371-G of the Constitution, special provisions are made with respect to the state of Mizoram.
 2. Accordingly, no act of Parliament supplying all essential goods and services to the people of the Mizo community shall be covered under this Article.
 3. Mizos are the social practices of the Mizos.
 4. Mizo customary law and procedure.
@@ -675,7 +665,7 @@ A) 1 only
 B) 1, 3 and 4 only
 C) 1, 2 and 3
 D) 1, 2, 3 and 4 only
-ANS: B
+ANS: D
 Q: Which one of the following terms was used for the States in the Draft Constitution presented by B.R. Ambedkar on 4th November, 1948?
 A) Autonomous States
 B) Federal of States
@@ -1403,12 +1393,7 @@ B) Article 20
 C) Article 21
 D) Article 22
 ANS: C
-Q: The concept of **'Office of Profit'** is relevant in the context of:
-A) Article 15 (Prohibition of Discrimination)
-B) Article 16 (Public Employment)
-C) Article 18 (Abolition of Titles)
-D) Article 21 (Life and Liberty)
-ANS: C
+
 Q: The **Right Against Handcuffing** is a right recognized under:
 A) Article 19
 B) Article 20
@@ -1549,12 +1534,7 @@ B) They were considered as novel features
 C) The State was responsible for these policies
 D) They were mere instrument of instructions
 ANS: A
-Q: Which of the following is NOT a part of the Directive Principles of State Policy of the Constitution of India?
-A) To protect every monument or place of artistic or historic interest.
-B) To secure judiciary from the executive in the public services of the State.
-C) To protect and improve the environment and safeguard the forests and wildlife of the country.
-D) To secure for the citizen, a uniform civil code through the territory of India.
-ANS: D
+
 Q: Which of the following is NOT a Directive Principle in the Constitution of India?
 A) Protection and improvement of environment and safeguarding of forests and wildlife
 B) Protection of monuments and places and objects of national importance
@@ -1826,7 +1806,7 @@ C) Article 51A (F)
 D) Article 51A (G)
 ANS: C
 Q: Which of the following Articles shows fundamental duties is related to the respect of the National Anthem?
-A) Article 51A (B)
+A) Article 51A (A)
 B) Article 51A (D)
 C) Article 51A (C)
 D) Article 51A (F)
@@ -1933,7 +1913,7 @@ ANS: C
 
 Q: Which Article of the Indian Constitution talks about Oath or Affirmation by the President?
 A) Article 72
-B) Article 55
+B) Article 60
 C) Article 45
 D) Article 56
 ANS: B
@@ -1955,7 +1935,7 @@ ANS: A
 Q: Which of the following Articles deals with the Union Executive?
 A) Article 112 to 118
 B) Article 80 to 86
-C) Article 38 to 50
+C) Article 52 to 78
 D) Article 76 to 78
 ANS: C
 
@@ -1997,7 +1977,7 @@ ANS: A
 Q: According to Article 58 of the Constitution of India, no person shall be eligible for election as President unless he is a citizen of India; has completed the age of ___ ; and is qualified for election as a member of the House of the People.
 A) 27 years
 B) 30 years
-C) 25 years
+C) 35 years
 D) 40 years
 ANS: C
 
@@ -2056,7 +2036,7 @@ ANS: A
 
 Q: Who among the following Presidents of India was also the deputy Chairman of the Planning Commission?
 A) V V Giri
-B) Zakir Hussain
+B) Pranab Mukherjee
 C) S R Narayanan
 D) Ramaswamy Venkataraman
 ANS: B
@@ -2246,7 +2226,7 @@ Q: The President of India is the Supreme Commander of the Indian Armed Forces. W
 A) Article 72 - Pardon, reprieves, respites, or remission of punishment.
 B) Article 74 - Council of Ministers to aid and advise the President.
 C) Article 76 - Attorney General for India.
-D) Article 60 - Oath, I - impeachment, T - time of holding election.
+D) Article 60 - Oath
 ANS: C
 
 Q: The President has three types of veto powers under Article 111. Which veto power can the President reject a bill completely without reconsideration?
@@ -2409,13 +2389,6 @@ A) True
 B) False
 ANS: A
 
-Q: The President shall subscribe an oath in the presence of the Chief Justice of India, or in his absence, the senior most judge of the Supreme Court available. Article 59 also ensures protection of emoluments, court pardons, reprieves, respites, or remission of punishment, particularly in cases where the offences under Union laws, court-martial judgements, and death sentences.
-A) Only A and B
-B) Only B and C
-C) Only A
-D) A, B and C
-ANS: C
-
 [SUBJECT: Polity]
 [CHAPTER: PM and Council of Ministers]
 Q: There shall be a ___ with the Prime Minister at the head to aid and advise the President of India.
@@ -2573,13 +2546,6 @@ C) Article 78
 D) Article 81
 ANS: C
 
-Q: Which one of the following statements about the Attorney General of India is correct?
-A) He has the right of audience only in the Supreme Court of India.
-B) He shall receive such remuneration as the President may determine.
-C) He shall be qualified to be appointed as a judge of the Supreme Court.
-D) He shall give advice to the Government of India on all legal matters.
-ANS: D
-
 Q: Which among the following had the shortest span in office as the Prime Minister of India?
 A) Lal Bahadur Shastri
 B) Chaudhary Charan Singh
@@ -2693,7 +2659,7 @@ D) Article 83
 ANS: C
 
 Q: Which Article of the Indian Constitution discusses the composition of the Council of States?
-A) Article 395
+A) Article 80
 B) Article 395
 C) Article 51A
 D) Article 12
@@ -2895,8 +2861,8 @@ C) Privilege
 D) Censure
 ANS: A
 
-Q: Who is the office of the Speaker and the Deputy Speaker of Lok Sabha, who presides over the joint sitting of the two houses of Parliament?
-A) Chairman of Rajya Sabha
+Q: Who presides over the joint sitting of the two houses of Parliament?
+A) The Speaker of the Lok Sabha
 B) Deputy Chairman of Rajya Sabha
 C) Any senior member of Rajya Sabha
 D) Deputy Speaker of Lok Sabha
@@ -2979,21 +2945,6 @@ C) Article 92
 D) Article 90
 ANS: A
 
-Q: Which of the following is also known by which of the names?
-
-Cabinet government
-
-Responsible government
-
-Presidential model of government
-
-Fixed executive system of government
-A) Only 1, 3 and 4
-B) Only 1, 2 and 3
-C) Only 1, 2 and 4
-D) Only 2, 3 and 4
-ANS: B
-
 Q: Which of the following statements about the Parliament of India is correct?
 
 A majority of members of Rajya Sabha are elected by an electoral proportion of representation by means of single transferable vote.
@@ -3051,12 +3002,12 @@ C) Extradition
 D) Boilers
 ANS: C
 
-Q: How many members of the Rajya Sabha are elected indirectly and are representatives of states and UTs?
+Q: How many members of the Rajya Sabha are indirectly elected to represent the states and Union Territories of India?
 A) 8
 B) 12
 C) 14
 D) 10
-ANS: A
+ANS: B
 
 Q: Who among the following fixes the date of election of the Speaker of the Lok Sabha?
 A) The President of India.
@@ -3282,7 +3233,7 @@ A) 2019
 B) 2021
 C) 2022
 D) 2020
-ANS: D
+ANS: A
 
 Q: Which Article of the Indian Constitution mentions about the right of the Governor to address and to send messages to the house (or houses) of the state legislature?
 A) Article 171
@@ -3367,12 +3318,12 @@ C) Article 164
 D) Article 162
 ANS: A
 
-Q: As per Article 191, the Governor shall not be a member of any House of Parliament or a House of the Legislature of any state specified in ____ Schedule.
+Q: According to Article 191 of the Constitution of India, the Governor cannot be a member of Parliament or of the legislature of any state listed in which Schedule?
 A) First
 B) Fifth
 C) Seventh
 D) Third
-ANS: B
+ANS: A
 
 Q: A Governor shall, notwithstanding the expiration of his term, continue to hold office until ___.
 A) the President Consents
@@ -3536,11 +3487,6 @@ A) True
 B) False
 ANS: B
 
-Q: The Governor is appointed by the President on the advice of the Chief Minister or dies, the entire council of ministers dissolves, as they hold office at the pleasure of the Governor only as long as the CM is in office.
-A) True
-B) False
-ANS: B
-
 Q: Article 152 defines a state-The Supreme Court has held that while the Governor is appointed by the President (Central Government), the Governor is neither his subordinate nor an agent, and he acts independently and impartially, especially in constitutional matters.
 A) True
 B) False
@@ -3680,13 +3626,6 @@ B) Swaran Singh Committee
 C) Sarkaria Commission
 D) Mandal Commission
 ANS: C
-
-Q: How many members in India?
-A) 22
-B) 15
-C) 35
-D) 30
-ANS: B
 
 Q: The parliamentary standing committees have a tenure of ___.
 A) one
@@ -3840,7 +3779,7 @@ Q: Which of the following Constitutional Amendments incorporated Dadra and Nagar
 A) Twenty-third Amendment
 B) Twenty-fifth Amendment
 C) Twenty-fourth Amendment
-D) Twenty-sixth Amendment
+D) Tenth Amendment
 ANS: D
 
 Q: Which of the following Amendments of the Constitution does NOT have the power to abridge or take away any of the Fundamental Rights under Article 13?
@@ -4004,14 +3943,13 @@ D) 40th Amendment
 ANS: A
 
 Q: Which of the following statements is NOT correct about the Constitution of India?
+1. It is mandatory to get Article 368(2) of the Constitution of India.
 
-It is mandatory to get Article 368(2) of the Constitution of India.
+2. Joint sitting can be resorted to for passing a bill amending the Constitution of India.
 
-Joint sitting can be resorted to for passing a bill amending the Constitution of India.
+3. The State Legislatures cannot initiate any bill or proposal for amendment of the Constitution of India.
 
-The State Legislatures cannot initiate any bill or proposal for amendment of the Constitution of India.
-
-The previous sanction of the President of India is not required for introduction of any bill in the Parliament for amendment of the Constitution of India.
+4. The previous sanction of the President of India is not required for introduction of any bill in the Parliament for amendment of the Constitution of India.
 A) 1 only
 B) Both 1 and 2
 C) 2 only
@@ -4501,13 +4439,6 @@ C) Article 132
 D) Article 133
 ANS: A
 
-Q: Which of the following are the High Courts in India?
-A) Calcutta, Bombay, Madras, Patna, Nagpur
-B) Calcutta, Bombay, Madras, Patna, Delhi
-C) Calcutta, Bombay, Madras, Patna, Allahabad
-D) Calcutta, Bombay, Madras, Patna, Hyderabad
-ANS: C
-
 Q: The High Court and Supreme Court Judges (Salaries and Conditions of Service) Amendment Bill, 2021 was introduced in the Lok Sabha on November 30, 2021.
 A) True
 B) False
@@ -4550,7 +4481,7 @@ ANS: A
 
 Q: The High Court of Delhi was established in ____.
 A) 1962
-B) 1947
+B) 1966 (Oct 31)
 C) 1951
 D) 1956
 ANS: B
@@ -4578,39 +4509,15 @@ ANS: C
 
 [SUBJECT: Polity]
 [CHAPTER: Panchayats and Municipalities]
-Q: Match the following committees with their contributions to local governance and select the correct answer using the codes/options given below the lists:
-
-Ashok Mehta Committee
-
-G.V.K. Rao
-
-L.M. Singhvi Committee
-
-Sarkaria Commission
-List-II (Contribution)
-
-Recommended that Panchayati Raj institutions should be constitutionally recognised, protected and preserved.
-
-Suggested that local government should be given constitutional status.
-
-Proposed a two-tier Panchayati Raj system.
-
-Reviewed the working of the Constitution in relation to the working of the Panchayats and Municipalities.
-A) A-IV B-III C-I D-II
-B) A-III B-V C-I D-II
-C) A-II B-II C-IV D-III
-D) A-III B-II C-II D-IV
-ANS: B
-
 Q: Which of the following committees was/were set up by the Government of India on the working of the Panchayati Raj Institutions?
 
-Balwant Rai Mehta Committee
+1. Balwant Rai Mehta Committee
 
-The Ashok Mehta Committee
+2. The Ashok Mehta Committee
 
-The K. Santhanam Committee
+3. The K. Santhanam Committee
 
-The G.V.K. Rao Committee
+4. The G.V.K. Rao Committee
 A) Only 1
 B) Only 1 and 2
 C) Only 3
@@ -4640,7 +4547,7 @@ ANS: C
 
 Q: Provisions related to the Municipalities are mentioned under which part of the Indian Constitution?
 A) Part IV A
-B) Part XI
+B) Part XI A
 C) Part V
 D) Part XII
 ANS: B
@@ -4709,7 +4616,7 @@ D) 69th Amendment Act 1993
 ANS: C
 
 Q: Which of the following articles is related to the Provision of Cooperative Societies in the Indian Constitution?
-A) 243 H to 243 ZT
+A) 243ZH to 243ZT
 B) 243 ZA to 243 ZG
 C) 243 P to 243 ZG
 D) 243 - 244
@@ -4960,7 +4867,7 @@ ANS: B
 
 Q: Under which one among the following Articles of the Constitution of India, a member of a Civil Service, whether of the Union or of a State, seeks protection from unlawful dismissal from service?
 A) Article 309
-B) Article 312
+B) Article 311
 C) Article 315
 D) Article 320
 ANS: B
@@ -5096,13 +5003,14 @@ B) Government of India Act, 1858
 C) Charter Act of 1853
 D) Regulating Act of 1773
 ANS: B
+
 Q: Consider the following statement about the Government of India Act, 1858:
 1. This Act was enacted by the British Parliament.
 2. This Act was divided into two separate acts for the India and Burma Government.
 3. This Act commenced from 1 April 1935.
 Select the correct statement(s) using the code given below.
 A) Both 1 and 2
-B) 1, 2 and 3
+B) Only 1
 C) Both 1 and 3
 D) Both 1 and 3
 ANS: B
