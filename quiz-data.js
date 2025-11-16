@@ -225,7 +225,7 @@ ANS: B
 Q: Who among the following described the Indian Constitution as 'legal pundit'?
 A) MV Pylee
 B) Granville Austin
-C) AV Dicey
+C) Ivor Jennings
 D) KC Wheare
 ANS: C
 Q: Which is NOT a unitary feature of the Constitution of India?
@@ -254,7 +254,7 @@ A) 1 and 2 only
 B) 1 and 3 only
 C) 1, 2 and 3
 D) 2 and 3 only
-ANS: B
+ANS: A
 Q: A government governs within the bounds established by constitutional law and citizen rights is ____ system of government.
 A) Dictatorship
 B) Monarchy
@@ -284,11 +284,11 @@ A) John Locke
 B) J.S. Mill
 C) John Bentham
 D) J.J. Rousseau
-ANS: B
+ANS: A
 Q: 'Legal Positivism' theory was developed by _____.
 A) T.H. Green
 B) J.S. Mill
-C) John Locke
+C) John Austin
 D) Patrick Devin
 ANS: C
 Q: Which one of the following statements is NOT correct about totalitarianism?
@@ -372,7 +372,7 @@ A) 1 only
 B) 2 only
 C) Both 1 and 2
 D) Neither 1 nor 2
-ANS: A
+ANS: C
 Q: Constitutional government means:
 A) A government where a nation with federal structure.
 B) A government whose head enjoys nominal powers.
